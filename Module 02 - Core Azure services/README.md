@@ -1,4 +1,6 @@
-# Azure Fundamentals AZ-900 - Module 02 - Azure core services
+# Azure Fundamentals: AZ-900
+
+# Module 02 - Azure core services
 
 This module will cover understanding of Core Azure services, such as Networking and Virtual Machines. In this module, you can optionally go through the following exercises.
 
@@ -13,3 +15,7 @@ This module will cover understanding of Core Azure services, such as Networking 
 - Walkthrough 09 - Create VMs from a script with Azure PowerShell
 - Walkthrough 10 - Install IIS webserver on a VM with Azure Cloud Shell
 - Walkthrough 11 - Save a recommendations report with Azure Advisor
+
+
+
+Cheers!
